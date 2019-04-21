@@ -1,0 +1,183 @@
+.p1 {
+    font-size: 12;
+    color: #c2c2d6;
+}
+
+.span1 {
+    color: crimson
+}
+
+.span2 {
+    font-size: 8;
+    color: #c2c2d6;
+}
+
+.btn1 {
+    border-color: red;
+    background-color: white;
+    padding-left: 8;
+}
+
+.input1 {
+    width: 60;
+    height: 30;
+}
+
+.btn2 {
+    color: white;
+    background-color: red;
+    padding-left: 25;
+    padding-right: 25;
+    float: none;
+    font-size: 14px;
+    border: 1px solid red;
+    cursor: pointer;
+    width: 240px;
+    height: 50px;
+    text-transform:uppercase;
+    transition: .5s;
+}
+
+.btn2:hover {
+    color: black;
+    background-color: white;
+    border: solid 1px black;
+}
+
+.input2 {
+    width: 300;
+    height: 35;
+    margin-left: 2.5%;
+}
+
+.input3 {
+    width: 300;
+    height: 35;
+    margin-left: 2.5%;
+}
+
+.input4 {
+    margin-left:2.5%;
+}
+
+.btn3 {
+    color: white;
+    background-color: red;
+    padding: 0%;
+    float: none;
+    font-size: 14px;
+    border: 1px solid red;
+    cursor: pointer;
+    width: 180px;
+    height: 40px;
+    margin-left: 2.5%;
+    text-transform:uppercase;
+    transition: .5s;
+}
+
+.btn3:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+
+.input5 {
+    padding-right: 30;
+    padding-left: 50;
+    height: 35;
+}
+
+.btn4 {
+    color: white;
+    background-color: red;
+    padding: 0%;
+    float: none;
+    font-size: 14px;
+    border: 1px solid red;
+    cursor: pointer;
+    width: 100px;
+    height: 36px;
+    margin-left:-.5%;
+    text-transform:uppercase;
+    transition: .5s;
+}
+
+.btn4:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+
+.div {
+    text-align: center;
+}
+.spn1{
+    margin-left: 2.5%;
+}
+.spn2{
+    margin-left: 2.5%;
+}
+.spn3{
+    margin-left: 2.5%;
+}
+h4{
+    margin-left: 2.5%;
+}
+.menu ul{
+    display: flex;
+    padding: 0%;
+    margin: 0%;
+}
+
+.menu ul li{
+    list-style: none;
+
+}
+.menu ul li a{
+    border: 1px solid  white;
+    line-height: 60px;
+    color:gray;
+    padding: 8px;
+    text-decoration: none;
+    
+}
+.cart3{
+    float: right;
+}
+.img5{
+    margin-left: 36%;
+}
+.search{
+    border: none;
+    border-bottom: black 1px solid;
+    position: relative;
+    padding: 10px 0;
+    font-size: 14px;
+    outline:none;
+    background:transparent;
+    width:25%;
+    outline: none;
+}
+.home{
+    background-color:#f2f2f2;
+    padding: 10px;
+    
+}
+.home a{
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bolder;
+    color:grey;
+}
+.rate{
+    float: right
+}
+.review h3{
+    border: none;
+    border-bottom: 1px solid black;
+    background-color: #f2f2f2;
+    width:80px;
+    padding: 11px;
+    margin-top: 15%;
+
+}
